@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [islamyearul.xyz](islamyearul.xyz)
 
-- 💬 Ask me about **Laravel, PHP, React JS, HTML5, CSS3, JavaScript.**
+- 💬 Ask me about **Laravel, PHP, React JS, HTML5, CSS3, Mysql, Mongodb, Node Js, Express JS, Next Js, JavaScript.**
 
 - 📫 How to reach me **yearulislamonem@gmail.com**
 
