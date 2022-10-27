@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md, Yearul islam</h1>
-<h3 align="center">A passionate Backend & frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Reliance Online Insurance](http://13.233.32.112:8082/)
 
